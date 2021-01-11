@@ -8,4 +8,4 @@ layout: default
 
 
 
-Want to go back to the main page? [Click me](http://www.google.com){: .btn}
+Want to go back to the main page? [Click me](https://maxvandervelde.github.io/){: .btn}
