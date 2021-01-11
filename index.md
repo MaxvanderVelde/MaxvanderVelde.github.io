@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to the Max van der Velde website
 ## Through the following buttons you can get to know me, take a look at my cv and get into contact with me.
 
