@@ -1,7 +1,7 @@
 ---
 layout: default
 title: [Max van der Velde]
-description: [Hello! Welcome to the Max van der Velde website]
+description: [Hello and welcome to the Max van der Velde website]
 ---
 ### This is me
 <img src="Picture.jpg" width="200"/>
