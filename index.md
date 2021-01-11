@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Hello and welcome to my website. This is me (*Max van der Velde*)
+### Hello and welcome to my website. This is me: **Max van der Velde**
 <img src="Picture.jpg" width="350"/>
 
 
