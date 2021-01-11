@@ -1,11 +1,10 @@
 ---
 layout: default
-title: [Max van der Velde]
-description: [Hello and welcome to the Max van der Velde website]
+title: [Hello and welcome to the Max van der Velde website]
 ---
 # Max van der Velde
 ## Statistical/methodological scientist (to be)
-<img src="Picture.jpg" width="200"/>
+<img src="Picture.jpg" width="400"/>
 
 
 ## Through the following buttons you can get to know me, take a look at my cv and get into contact with me.
