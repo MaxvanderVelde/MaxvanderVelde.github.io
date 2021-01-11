@@ -14,5 +14,4 @@ I am currently 25 years of age, own a dog and love teaching. Due to this i have 
 
 
 
-
-Want to go back to the [Main page?](https://maxvandervelde.github.io/)
+# Want to go back to the [Main page?](https://maxvandervelde.github.io/)
