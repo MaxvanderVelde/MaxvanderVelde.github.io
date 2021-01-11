@@ -1,9 +1,7 @@
 ---
 layout: default
-title: [Hello and welcome to the Max van der Velde website]
 ---
-# Max van der Velde
-## Statistical/methodological scientist (to be)
+### This is me
 <img src="Picture.jpg" width="400"/>
 
 
