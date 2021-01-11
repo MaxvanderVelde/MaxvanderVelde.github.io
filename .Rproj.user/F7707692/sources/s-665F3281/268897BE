@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1610357267098.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3463580129",
+    "id" : "268897BE",
+    "lastKnownWriteTime" : 1610356937,
+    "last_content_update" : 1610356937,
+    "path" : "~/GitHub/MaxvanderVelde.github.io/Markdown.Rmd",
+    "project_path" : "Markdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
