@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Max van der Velde]
 description: [Welcome to the Max van der Velde website]
+show_downloads: ["true"]
