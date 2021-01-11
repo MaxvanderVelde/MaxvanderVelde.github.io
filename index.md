@@ -2,7 +2,7 @@
 layout: default
 ---
 ### Hello and welcome to my website. This is me *Max van der Velde*
-<img src="Picture.jpg" width="400"/>
+<img src="Picture.jpg" width="350"/>
 
 
 ## Through the following buttons you can get to know me, take a look at my CV and contact with me.
