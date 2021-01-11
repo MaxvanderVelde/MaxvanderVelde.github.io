@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Max van der Velde]
+title: [Max van der Velde](https://maxvandervelde.github.io/)
 description: [Welcome to the Max van der Velde website]
 ---
 
