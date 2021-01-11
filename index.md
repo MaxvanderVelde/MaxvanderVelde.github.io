@@ -3,7 +3,8 @@ layout: default
 title: [Max van der Velde]
 description: [Hello and welcome to the Max van der Velde website]
 ---
-### This is me
+# Max van der Velde
+## Statistical/methodological scientist (to be)
 <img src="Picture.jpg" width="200"/>
 
 
