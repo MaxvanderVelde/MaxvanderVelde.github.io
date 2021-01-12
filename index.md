@@ -10,7 +10,7 @@ layout: default
 [About me](https://maxvandervelde.github.io/About%20me/me) 
 
 
-[CV](https://maxvandervelde.github.io/CV/CV)  
+[CV](CV_21_01_2020.pdf)  
 
 
 [Linkedin](https://www.linkedin.com/in/max-van-der-velde-9a6990121/)
