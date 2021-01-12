@@ -13,7 +13,7 @@ During my final year as a student i work at the [Centraal Instituut voor Toets O
 I am currently 25 years of age, have been born and bred in the Netherlands and own a dog that refuses to take long walks. In my continuously decreasing free time i enjoy taking (long) walks, jogging, reading books and meeting friends (at at least 1.5 meters distance). Some things that, in my opinion, make me who i am are my love for discussions, constant enthusiasm and openness.  
 
 ## More info?
-If you want to know a bit more about what i have been doing over the years, please take a look at my [CV](MaxvanderVelde.github.io/FInal_CV_12_01_2020.pdf)
+If you want to know a bit more about what i have been doing over the years, please take a look at my [CV](https://maxvandervelde.github.io/FInal_CV_12_01_2020.pdf)
 
 
 # Want to go back to the [Main page?](https://maxvandervelde.github.io/)
